@@ -1,0 +1,1 @@
+A traffic anomaly detection and autonomous vehicle project was developed as a team effort, utilizing image processing to identify any detected anomalies in traffic and automatically directing the vehicle to the affected area.
